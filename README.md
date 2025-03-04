@@ -17,6 +17,8 @@ The dataset contains 7,386+ records with the following key features:
 
 - **Height (Numeric)** - Patient's height in cm
 
+- **BMI (Numeric)** -Patient's BMI
+
 - **Medical Condition (Categorical)** - Condition being treated
 
 - **Medical History (Text/None)** - Past medical records (some missing values)
@@ -28,6 +30,8 @@ The dataset contains 7,386+ records with the following key features:
 - **Duration (Numeric)** - How long the drug was taken (in days)
 
 - **Side Effects Experienced (Categorical/None)** - Reported side effects (some missing values)
+
+- **Side Effect Severity (Categorical)** - Severity of the reported side effect
 
 ## Technologies Used
 
